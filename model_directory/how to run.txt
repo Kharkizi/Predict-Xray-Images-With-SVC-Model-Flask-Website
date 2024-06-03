@@ -1,0 +1,2 @@
+--- Di chuyển svc_model.pkl vào thư mục model_directory
+
